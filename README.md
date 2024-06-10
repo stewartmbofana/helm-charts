@@ -1,2 +1,2 @@
-# helm-charts
+# Stewart Helm Charts
 Stewart Helm Charts
